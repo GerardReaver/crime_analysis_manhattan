@@ -1,0 +1,1 @@
+## The original files should be for the NYPD data from the years 2022-2025 but the "NYPD_complaint_data_current3.csv" file is much shorter to make the data more manageable in Google BigQuery so it is only 2024-2025. 
