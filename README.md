@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes NYPD crime data with a focus on **Manhattan**, particularly the **9th Precinct**, for the years **2022 to 2024**. It aligns with my work experience during this time and aims to highlight crime trends, precinct-specific insights, and changes over time using SQL, data visualization, and BI tools.
+This project analyzes NYPD crime data with a focus on **Manhattan**, particularly the **9th Precinct**, for the years **2024 to 2025**. It aligns with my work experience during this time and aims to highlight crime trends, precinct-specific insights, and changes over time using SQL, data visualization, and BI tools.
 
 ## 🛠 Tools & Technologies
 - MySQL, Google BigQuery (SQL analysis)
