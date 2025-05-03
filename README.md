@@ -14,6 +14,6 @@ This project analyzes NYPD crime data with a focus on **Manhattan**, particularl
 - [Optional] Python (Jupyter notebooks for future expansion)
 
 ## 📁 Folder Structure
-# Data > Raw Data files before being cleaned 🧼
-# SQL > Google BigQuery + MySQL > MySQL codes and query graphs 📈
-# Visualizations > Tableau graphs of the data 📊
+## Data > Raw Data files before being cleaned 🧼
+## SQL > Google BigQuery + MySQL > MySQL codes and query graphs 📈
+## Visualizations > Tableau graphs of the data 📊
