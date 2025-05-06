@@ -1,23 +1,20 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 
-# Load the CSV from your local GitHub project folder
-df = pd.read_csv(r'C:\Users\Gerar\Desktop\GitHub Repositories\crime_analysis_manhattan\SQL\BigQuery\most_common_offenses.csv')
+# Load the data (replace with your correct path)
+data = pd.read_csv(r'C:\Users\Gerar\Downloads\NYPD_Complaint_Data_Historic_20250505.csv')
 
-# Preview the data
-print(df.head())
+# Filter data for the 9th precinct using the correct column 'ADDR_PCT_CD'
+data_9th_precinct = data[data['ADDR_PCT_CD'] == 9]
 
-# Optional: Rename columns if needed (adjust based on your actual column names)
-# Example: df.columns = ['offense', 'count']
+# Drop rows with missing latitude, longitude, or crime type (for heatmap visualization)
+data_9th_precinct_clean = data_9th_precinct.dropna(subset=['Latitude', 'Longitude', 'OFNS_DESC'])
 
-# Plot the most common offenses
-plt.figure(figsize=(10, 6))
-sns.barplot(x='count', y='offense', data=df.sort_values(by='count', ascending=False), palette='Blues_d')
-plt.title('Most Common Offenses in the 9th Precinct (2021–2024)')
-plt.xlabel('Number of Incidents')
-plt.ylabel('Offense Type')
-plt.tight_layout()
+# Get the list of unique crime types from 'OFNS_DESC'
+crime_types = data_9th_precinct_clean['OFNS_DESC'].unique()
 
-# Show the plot
-plt.show()
+# Save separate CSV files for each crime type
+for crime in crime_types:
+    crime_data = data_9th_precinct_clean[data_9th_precinct_clean['OFNS_DESC'] == crime]
+    crime_data.to_csv(f'C:/Users/Gerar/Downloads/{crime}_9th_precinct_2024_2025.csv', index=False)
+
+    print(f"Saved data for {crime} to CSV.")
