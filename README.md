@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes NYPD crime data with a focus on **Manhattan**, particularly the **9th Precinct**, for the years **2024 to 2025**. It aligns with my work experience during this time and aims to highlight crime trends, precinct-specific insights, and show what solutions we achieved through actionable insgihts over time using the Data.
+This project analyzes NYPD crime data with a focus on **Manhattan**, particularly the **9th Precinct**, for the years **2024 to 2025**. It aligns with my work experience during this time and aims to highlight crime trends, precinct-specific insights, and show what solutions we achieved through actionable insights over time using the Data.
 
 ## 🛠 Tools & Technologies
 - MySQL from PandasSQL the Python Library (SQL analysis)
