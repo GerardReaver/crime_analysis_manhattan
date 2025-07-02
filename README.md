@@ -52,9 +52,9 @@ Offense folders include:
 - _etc._
 
 ### `sql/`
-- `crime_breakdown.sql` – Summary by offense type  
-- `monthly_trends.sql` – Crime trend analysis by month  
-- `common_offenses.sql` – Most frequent offenses in the 9th Precinct  
+- `crime_breakdown.csv` – Summary by offense type  
+- `monthly_trends.csv` – Crime trend analysis by month  
+- `common_offenses.csv` – Most frequent offenses in the 9th Precinct  
 
 ### `visualizations/`
 - Static charts and maps (e.g. heatmaps, bar graphs, timelines)
