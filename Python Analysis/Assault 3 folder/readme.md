@@ -26,3 +26,6 @@ This section will explore:
 
 These statistics represent the distribution of **Assault 3** victims in the **9th Precinct** during the year **2024**, broken down by **victim race and sex**. This visualization helps highlight which demographic groups were most affected by these types of offenses. It serves as a foundational step for identifying patterns and understanding the broader impact of assault-related incidents on different communities.
 
+![Victim Location Breakdown - Assault 3 (2024)](https://github.com/GerardReaver/crime_analysis_manhattan/blob/main/Visualizations/assault%203%20maps.png)
+
+This is a visualization of all the most common places where assaults in the 3rd degree have occurred in the confines of the 9th precinct. To no surprise there isn't much insight to pull from this data but it gives us a starting point to visualize all the precinct as a whole and we can further break down the data by time and dates to realize where operations can be implemented if any patterns were to arise from the dataset as a whole. 
