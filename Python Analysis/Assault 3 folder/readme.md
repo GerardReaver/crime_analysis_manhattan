@@ -20,4 +20,4 @@ This section will explore:
   - Time of day and day of week patterns
   - Location types (e.g. street, residence, commercial)
 
-Example (to be replaced with actual query results):
+![Victim Race and Sex Breakdown](../output/assault3_victim_race_sex.png)
