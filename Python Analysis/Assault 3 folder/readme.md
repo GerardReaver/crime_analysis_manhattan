@@ -20,4 +20,5 @@ This section will explore:
   - Time of day and day of week patterns
   - Location types (e.g. street, residence, commercial)
 
-![Victim Race and Sex Breakdown](../output/assault3_victim_race_sex.png)
+![Victim Sex Breakdown – Assault 3 (2024)](https://raw.githubusercontent.com/GerardReaver/crime_analysis_manhattan/main/Visualizations/assault%203%20victime%20sex.png)
+
