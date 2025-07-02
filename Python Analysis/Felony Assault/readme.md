@@ -20,7 +20,7 @@ This section will explore:
   - Time of day and day of week patterns
   - Location types (e.g. street, residence, commercial)
 
-![Victim Sex Breakdown – Felony Assault (2024)](https://raw.githubusercontent.com/GerardReaver/crime_analysis_manhattan/main/Visualizations/felony_assault_victim_sex.png)
+![Victim Sex Breakdown – Felony Assault (2024)]([https://raw.githubusercontent.com/GerardReaver/crime_analysis_manhattan/main/Visualizations/felony_assault_victim_sex.png](https://github.com/GerardReaver/crime_analysis_manhattan/blob/main/Visualizations/felony%20assault%20victim%20sex_race.png))
 
 ### 📊 Victim Demographics Breakdown
 
