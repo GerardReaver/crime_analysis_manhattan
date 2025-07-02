@@ -32,4 +32,8 @@ This is a visualization of all the most common places where assaults in the 3rd 
 
 ![Victim assaults in a day -Assault 3 (2024)](https://github.com/GerardReaver/crime_analysis_manhattan/blob/main/Visualizations/most%20assaultday.png)
 
-For example this is another visualization of some of the most common places where assaults in the 3rd degree have occurred and one of the main locations is on Bowery at the men's homeless shelter. This can be contributed to many reasons such as a high number of occupants, disputes and high tensions based on their living conditions. 
+For example this is another visualization of some of the places where assaults in the 3rd degree have occurred. This day in particular there was 5 different assaults in all different sectors of the precinct and the confines. 
+
+![Victim assaults heat map - Assault 3 (2024)](https://github.com/GerardReaver/crime_analysis_manhattan/blob/main/Visualizations/assault%203%20heatmap%20by%20latlon.png)
+
+This is a visualizaton of a heatmap of all the hotspot of the assaults during the entire year of 2024. the deeper and more intense the red circle indicates a higher number of reports in these areas during the year. Some key patterns you realize is the Bars on Ave A, the entirety of the housing developments on Avenue D, the men's homeless shelter on the south side of Bowery and the north west corner by Union Square park. 
