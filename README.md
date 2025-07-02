@@ -7,13 +7,14 @@
 This project analyzes NYPD crime data with a focus on **Manhattan**, particularly the **9th Precinct**, for the years **2024 to 2025**. It aligns with my work experience during this time and aims to highlight crime trends, precinct-specific insights, and changes over time using SQL, data visualization, and BI tools.
 
 ## 🛠 Tools & Technologies
-- MySQL, Google BigQuery (SQL analysis)
-- Google Sheets (pivot tables, EDA)
+- MySQL from PandasSQL the Python Library (SQL analysis)
+- Google Sheets (pivot tables)
 - Tableau (interactive dashboards)
 - Git & GitHub (version control)
-- [Optional] Python (Jupyter notebooks for future expansion)
 
 ## 📁 Folder Structure
-- Data > Raw Data files before being cleaned 🧼
+- Data
+-     > Raw Data files before being cleaned 🫧
+-     > Cleaned Data files after being cleaned 🧼
 - SQL > Google BigQuery + MySQL > MySQL codes and query graphs 📈
 - Visualizations > Tableau graphs of the data 📊
