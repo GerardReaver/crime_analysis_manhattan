@@ -47,3 +47,9 @@ This project analyzes NYPD crime data with a focus on **Manhattan**, particularl
 - > Unauthorized Use of a Vehicle
 - > Vehicle and Traffic Laws
 - > ECT. 
+### SQL
+- > Crime Breakdown
+- > Monthly crime trend count
+- > Most Common Offenses
+### Visualization
+- > Crime Count
