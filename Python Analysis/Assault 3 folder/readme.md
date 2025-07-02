@@ -29,3 +29,7 @@ These statistics represent the distribution of **Assault 3** victims in the **9t
 ![Victim Location Breakdown - Assault 3 (2024)](https://github.com/GerardReaver/crime_analysis_manhattan/blob/main/Visualizations/assault%203%20maps.png)
 
 This is a visualization of all the most common places where assaults in the 3rd degree have occurred in the confines of the 9th precinct. To no surprise there isn't much insight to pull from this data but it gives us a starting point to visualize all the precinct as a whole and we can further break down the data by time and dates to realize where operations can be implemented if any patterns were to arise from the dataset as a whole. 
+
+![Victim assaults in a day -Assault 3 (2024)](https://github.com/GerardReaver/crime_analysis_manhattan/blob/main/Visualizations/most%20assaultday.png)
+
+For example this is another visualization of some of the most common places where assaults in the 3rd degree have occurred and one of the main locations is on Bowery at the men's homeless shelter. This can be contributed to many reasons such as a high number of occupants, disputes and high tensions based on their living conditions. 
