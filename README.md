@@ -12,7 +12,7 @@ This project analyzes NYPD crime data with a focus on **Manhattan**, particularl
 
 ## 📁 Folder Structure
 
-### `data/`
+### `data/` 
 - 🫧 **Raw Data** – Original data files from NYC Open Data  
 - 🧼 **Cleaned Data** – Files after preprocessing and filtering
 
