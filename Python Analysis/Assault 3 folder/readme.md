@@ -22,3 +22,7 @@ This section will explore:
 
 ![Victim Sex Breakdown – Assault 3 (2024)](https://raw.githubusercontent.com/GerardReaver/crime_analysis_manhattan/main/Visualizations/assault%203%20victime%20sex.png)
 
+### 📊 Victim Demographics Breakdown
+
+These statistics represent the distribution of **Assault 3** victims in the **9th Precinct** during the year **2024**, broken down by **victim race and sex**. This visualization helps highlight which demographic groups were most affected by these types of offenses. It serves as a foundational step for identifying patterns and understanding the broader impact of assault-related incidents on different communities.
+
