@@ -18,13 +18,13 @@ This project analyzes NYPD crime data with a focus on **Manhattan**, particularl
 - > Cleaned Data files after being cleaned 🧼
 ### Python Analysis with PandaSQL
 - > Administrative Code
-  > Arson
-  > Assault 3 & Related Offenses
-  > Burglary and Burglar's Tools
-  > Cannabis Related Offenses
-  > Criminal Mischief & Related Offenses
-  > Dangerous Drugs
-  > Dangerous Weapons
+- > Arson
+- > Assault 3 & Related Offenses
+- > Burglary and Burglar's Tools
+- > Cannabis Related Offenses
+- > Criminal Mischief & Related Offenses
+- > Dangerous Drugs
+- > Dangerous Weapons
   > Disorderly Conduct
   > Escape 3
   > Felony Assault
