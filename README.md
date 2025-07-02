@@ -25,25 +25,25 @@ This project analyzes NYPD crime data with a focus on **Manhattan**, particularl
 - > Criminal Mischief & Related Offenses
 - > Dangerous Drugs
 - > Dangerous Weapons
-  > Disorderly Conduct
-  > Escape 3
-  > Felony Assault
-  > Forgery
-  > Fortune Telling
-  > Frauds
-  > Grand Larceny of Motor Vehicle
-  > Grand Larceny
-  > Harrassment 2
-  > Intoxicated and Imparied Driving
-  > Kidnapping & Related Offenses
-  > Miscellaneous Penal Law
-  > Murder and Non-Negligible Manslaughter
-  > Petit Larceny
-  > Possession of Stolen Property
-  > Prostitution & Related Offenses
-  > Rape
-  > Robbery
-  > Sex Crimes
-  > Unauthorized Use of a Vehicle
-  > Vehicle and Traffic Laws
-  > ECT. 
+- > Disorderly Conduct
+- > Escape 3
+- > Felony Assault
+- > Forgery
+- > Fortune Telling
+- > Frauds
+- > Grand Larceny of Motor Vehicle
+- > Grand Larceny
+- > Harrassment 2
+- > Intoxicated and Imparied Driving
+- > Kidnapping & Related Offenses
+- > Miscellaneous Penal Law
+- > Murder and Non-Negligible Manslaughter
+- > Petit Larceny
+- > Possession of Stolen Property
+- > Prostitution & Related Offenses
+- > Rape
+- > Robbery
+- > Sex Crimes
+- > Unauthorized Use of a Vehicle
+- > Vehicle and Traffic Laws
+- > ECT. 
