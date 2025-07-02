@@ -17,7 +17,7 @@ This project analyzes NYPD crime data with a focus on **Manhattan**, particularl
 - 🧼 **Cleaned Data** – Files after preprocessing and filtering
 
 ### `analysis/`
-- Python scripts organized by offense type, using SQL in `pandasql`
+- 🐍 Python scripts organized by offense type, using SQL in `pandasql`
 
 Offense folders include:
 - Administrative Code  
@@ -51,11 +51,11 @@ Offense folders include:
 - Vehicle & Traffic Laws  
 - _etc._
 
-### `sql/`
+### `sql/` ⌨️
 - `crime_breakdown.csv` – Summary by offense type  
 - `monthly_trends.csv` – Crime trend analysis by month  
 - `common_offenses.csv` – Most frequent offenses in the 9th Precinct  
 
-### `visualizations/`
+### `visualizations/` 📊
 - Static charts and maps (e.g. heatmaps, bar graphs, timelines)
 
