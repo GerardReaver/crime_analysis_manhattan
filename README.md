@@ -13,7 +13,7 @@ This project analyzes NYPD crime data with a focus on **Manhattan**, particularl
 - Git & GitHub (version control)
 
 ## 📁 Folder Structure
-- Data
+###  Data
 - > Raw Data files before being cleaned 🫧
 - > Cleaned Data files after being cleaned 🧼
 - SQL > Google BigQuery + MySQL > MySQL codes and query graphs 📈
