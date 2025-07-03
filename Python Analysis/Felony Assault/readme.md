@@ -37,11 +37,4 @@ High-density clusters of felony assaults appear near known nightlife corridors, 
 Multiple locations reported 10 or more separate felony assault incidents, indicating potential recurring safety concerns at these spots.
 
 These high-frequency zones may represent key areas for:
-
-Increased patrol presence
-
-Enhanced public lighting
-
-Targeted community outreach or intervention strategies
-
-This analysis helps local agencies and community leaders prioritize resources and design data-driven crime prevention strategies based on real-world location data.
+Increased patrol presence, Enhanced public lighting by NYPD generators, Targeted community outreach or intervention strategies, 
