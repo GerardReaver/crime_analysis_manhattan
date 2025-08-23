@@ -20,3 +20,4 @@ This section will explore:
   - Time of day and day of week patterns
   - Location types (e.g. street, residence, commercial)
   - ect. 
+![Victim Sex Breakdown - Petit Larceny (2024)](https://github.com/GerardReaver/crime_analysis_manhattan/blob/main/Visualizations/Petit%20Larceny%20Victim%20Type.png)
